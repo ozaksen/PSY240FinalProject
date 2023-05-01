@@ -1,0 +1,23 @@
+{
+    "title" : "Welcome to the Choose Your Own Adventure Game: The Lost Treasure!",
+    "story" : [
+        {
+            "text" : "You are a treasure hunter named Alex, who is on a mission to find a lost treasure in the Amazon rainforest. As you journey through the jungle, you encounter a fork in the road. To the left is a path that looks well-traveled, and to the right is a path that looks less traveled.",
+            "options" : [
+                "Take the mountain trail-If you choose to take the mountain trail, you will have to climb up a steep mountain path. You will get tired and might even slip on the rocks. However, once you reach the top, you will have a breathtaking view of the island from above. You may feel proud of yourself and think it was the best choice",
+                "Take the beach path-If you choose to take the beach path, you will have to walk along the sandy beach. The path is easier, but you will have to face a strong wind and hot sun that might make you tired. However, you may find some treasures washed up by the waves on the beach. You may feel happy to have found some treasure and think it was the best choice."
+            ]
+        },
+        {
+            "text" : "story",
+            "options" : [
+                "option,descriptiontext",
+                "option,desctext"
+            ]
+        }
+    ],
+    "finalText" : "Reflecting on your adventure, you realize that one choice you made was based on hindsight bias. If you had chosen the beach path instead of the forest path, you could have found a rare plant that is known to have medicinal properties"
+
+}
+
+
